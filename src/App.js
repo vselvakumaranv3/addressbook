@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Route, BrowserRouter as Router, Switch, Link,  useParams} from "react-router-dom";
-import Home from "./Pages/Home";
+import {Route, BrowserRouter as Router, Switch, Link} from "react-router-dom";
 import Details from "./Pages/Details";
 import RandomUser from "./Pages/RandomUser";
 
