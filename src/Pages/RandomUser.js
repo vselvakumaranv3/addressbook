@@ -28,7 +28,7 @@ export default class RandomUser extends React.Component {
       <div>
         {this.state.people.map(person => (
           <div>
-            <div><Link to={'/details/' + person.name.first +'/' + person.name.last+'/' + person.phone}><img src={person.picture.large} /></Link></div>
+            <div><Link to={'/details/' + person.name.first +'/' + person.name.last+'/' + person.phone}><img src={person.picture.large} alt="sample images" /></Link></div>
             
             
           </div>
