@@ -1,3 +1,12 @@
+# Getting Started with the app
+git clone https://github.com/vselvakumaranv3/addressbook.git
+
+# At the app root folder
+npm install
+
+# Start the app
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
