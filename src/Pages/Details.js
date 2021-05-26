@@ -1,9 +1,7 @@
 
-import React, { Component } from "react";
-// Importing Module
-import queryString from 'query-string'
-import { useParams } from 'react-router';
 
+import React from "react";
+// Importing Module
 export default class Details extends React.Component {
 
     
